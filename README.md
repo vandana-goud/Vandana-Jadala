@@ -26,6 +26,6 @@ I'm an enthusiast with a keen interest in data science and web development with 
 
 ## 📚 Projects
 
-- **[Loan Prediction App]: A Flask application for predicting loan eligibility.
-- **[Cafe Management System]: A Java-based application for managing cafe operations.
-- **[Tinder Match Prediction]: Data analysis project predicting Tinder matches using Python.
+- Loan Prediction App: A Flask application for predicting loan eligibility.
+- Cafe Management System: A Java-based application for managing cafe operations.
+- Tinder Match Prediction: Data analysis project predicting Tinder matches using Python.
